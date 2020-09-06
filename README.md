@@ -1,10 +1,3 @@
-# Hello World !
+#Winter is Coming!
 
-"Winter is Coming"
-
-
-
-Product
-###DOTO
-
-[近期情况](resume/Chinese.md)
+[工作简历](resume/Chinese.md)
