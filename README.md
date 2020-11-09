@@ -4,4 +4,8 @@
 
 ## some links
 
-![cat-image](images/cat_output.webp) ![dog-image](images/dog_output.webp) ![happiness-image](images/happiness_output.webp)
+![cat-image](images/cat_output.webp)
+
+![dog-image](images/dog_output.webp)
+
+![happiness-image](images/happiness_output.webp)
